@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #011627;
+    padding: 1.2rem;
+    margin: 0 0 2rem 0;
+}
+
+.header__title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #fdfffc;
+}
+
+.header__total {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #fdfffc;
+}
